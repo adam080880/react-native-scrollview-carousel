@@ -7,15 +7,15 @@ A **fully customizable** and **lightweight** carousel for React Native built on 
 ## 🚀 Installation
 
 ```bash
-npm install react-native-scrollview-carousel
+npm install react-native-scrollview-carousel2
 # or
-yarn add react-native-scrollview-carousel
+yarn add react-native-scrollview-carousel2
 ```
 
 ## ⚙️ Example Usage
 
 ```tsx
-import { Carousel } from "react-native-scrollview-carousel";
+import { Carousel } from "react-native-scrollview-carousel2";
 import { Text, View } from "react-native";
 
 export default function Example() {
