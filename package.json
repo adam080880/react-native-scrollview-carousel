@@ -1,0 +1,41 @@
+{
+  "name": "react-native-scrollview-carousel",
+  "version": "1.0.0",
+  "description": "A fully customizable React Native carousel component using ScrollView.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adam080880/react-native-scrollview-carousel.git"
+  },
+  "keywords": [
+    "react-native",
+    "carousel",
+    "typescript",
+    "scrollview",
+    "component"
+  ],
+  "author": "adam080880",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-native": ">=0.73.0",
+    "react-native-reanimated": ">=3.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-native": "^0.73.0",
+    "metro-react-native-babel-preset": "^0.77.0",
+    "react": "^19.2.0",
+    "react-native": "^0.82.1",
+    "react-native-reanimated": "^4.1.3",
+    "typescript": "^5.4.0"
+  }
+}
